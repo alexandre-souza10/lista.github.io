@@ -16,6 +16,7 @@ https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d
 <br></br>
 ## Liguagens e ferramentas utilizadas:
 - HTML
+- CSS
 - Java Script
 - Visual Studio Code
 
