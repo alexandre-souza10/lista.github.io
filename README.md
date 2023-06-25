@@ -9,7 +9,9 @@
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
 
-Gift ou Video:
+Video:
+
+https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d85-4115-93e3-63e12baeec49
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
