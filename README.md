@@ -7,7 +7,15 @@
 
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse Projeto foi desenvolvido uma pagina de Lista de Super Mercado, um Projeto Front-End, utilizando HTML, CSS e Java Script. Na pagina podemos encontar
+um design simples , mas muito funcional , no campo produto , descrevemos o  produto de nossa preferencia , e o seu valor, ao clicar no botão cadastro , o Sistema
+nos cria um cadastro com o produto , e o valor inseridos nos campos, alem de somar todos os proutos cadastrados.
+
+- O projeto tem a funcionalidade de mostrar um Cadastro de Lista de super mercado, com produto e o valor, uma pagina dinamica, onde fica salvo
+tudo que cadastrarmos na lista , e ainda faz a soma de todos os prdutos que cadastrarmos, uma pagina muito funcional.
+
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Lista de Super Mercado Dinamica.
+<br></br>
 
 Video:
 
