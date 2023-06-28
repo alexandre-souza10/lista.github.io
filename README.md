@@ -16,6 +16,7 @@ creates a register with the product, and the value entered in the fields, in add
 everything we register on the list, and even adds up all the products we register, a very functional page.
 
 - Next we have a small instructional video, where we show an example of how the Dynamic Super Market List page works.
+
 <br></br>
 
 Video:
@@ -24,7 +25,7 @@ https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
