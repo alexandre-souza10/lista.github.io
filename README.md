@@ -1,20 +1,21 @@
-<h1 align="center">Projeto Lista de Super-Mercado</h1>
+<h1 align="center"> Supermarket List Project </h1>
 
-#### Pagina Inicial do Projeto:
+### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/lista.github.io/assets/74196527/940905a6-5fac-4661-b03d-5539993d4daf)
 
-### Link de acesso ao Projeto: http://listamercado.infinityfreeapp.com/Projetolista/
+### Project access link: http://listamercado.infinityfreeapp.com/Projetolista/
 
 <br></br>
-## Descrição do projeto:
-- Nesse Projeto foi desenvolvido uma pagina de Lista de Super Mercado, um Projeto Front-End, utilizando HTML, CSS e Java Script. Na pagina podemos encontar
-um design simples , mas muito funcional , no campo produto , descrevemos o  produto de nossa preferencia , e o seu valor, ao clicar no botão cadastro , o Sistema
-nos cria um cadastro com o produto , e o valor inseridos nos campos, alem de somar todos os proutos cadastrados.
 
-- O projeto tem a funcionalidade de mostrar um Cadastro de Lista de super mercado, com produto e o valor, uma pagina dinamica, onde fica salvo
-tudo que cadastrarmos na lista , e ainda faz a soma de todos os prdutos que cadastrarmos, uma pagina muito funcional.
+## Project Description:
+- In this Project, a Super Market List page was developed, a Front-End Project, using HTML, CSS and Java Script. On the page we can find
+a simple design, but very functional, in the product field, we describe the product of our preference, and its value, when clicking on the registration button, the System
+creates a register with the product, and the value entered in the fields, in addition to adding all registered products.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Lista de Super Mercado Dinamica.
+- The project has the functionality of showing a Supermarket List Register, with the product and the value, a dynamic page, where it is saved
+everything we register on the list, and even adds up all the products we register, a very functional page.
+
+- Next we have a small instructional video, where we show an example of how the Dynamic Super Market List page works.
 <br></br>
 
 Video:
@@ -22,7 +23,8 @@ Video:
 https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d85-4115-93e3-63e12baeec49
 
 <br></br>
-## Liguagens e ferramentas utilizadas:
+
+## Languages ​​and tools used:
 - HTML
 - CSS
 - Java Script
@@ -30,6 +32,6 @@ https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d
 
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
 
