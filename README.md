@@ -33,6 +33,6 @@ https://github.com/alexandre-souza10/lista.github.io/assets/74196527/bd956314-4d
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
 
