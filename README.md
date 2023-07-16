@@ -1,5 +1,6 @@
 <h1 align="center"> Supermarket List Project </h1>
 
+
 ### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/lista.github.io/assets/74196527/940905a6-5fac-4661-b03d-5539993d4daf)
 
